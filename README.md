@@ -1,4 +1,7 @@
-<!---
+ddfigueiras
+
+
+
 Steam - https://steamcommunity.com/id/ddfigueirasOFICIAL/
 Discord: ddfigueiras#2401
 
@@ -8,4 +11,3 @@ Discord: ddfigueiras#2401
 
 
 Working on ---> www.ptgo.pt servers (CS:GO)
---->
