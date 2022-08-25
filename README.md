@@ -1,13 +1,5 @@
 ddfigueiras
 
-
-
 Steam - https://steamcommunity.com/id/ddfigueirasOFICIAL/
-Discord: ddfigueiras#2401
+Discord: ddfigueiras#6250
 
-- Sourcepawn
-- Node.js
-- Python
-
-
-Working on ---> www.ptgo.pt servers (CS:GO)
