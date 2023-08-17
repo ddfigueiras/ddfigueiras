@@ -1,5 +1,5 @@
 ddfigueiras
 
 Steam - https://steamcommunity.com/id/ddfigueirasOFICIAL/
-Discord: ddfigueiras#6250
+Requests on discord => Discord: ddfigueiras Tag: ddfigueiras
 
