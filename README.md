@@ -1,9 +1,3 @@
-ddfigueiras
-
-Steam - https://steamcommunity.com/id/ddfigueirasOFICIAL/
-Requests on discord => Discord: ddfigueiras Tag: ddfigueiras
-
-
 # Hi there! 👋
 I'm a passionate Computer Science student at the university, specializing in software engineering and development. I'm deeply interested in exploring cutting-edge technologies and solving complex problems through innovative solutions.
 
