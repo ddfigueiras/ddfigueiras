@@ -29,4 +29,4 @@ I'm always eager to collaborate on interesting projects and learn from others. F
 # Contact Me
 Feel free to reach out to me via email at ☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰ or connect with me on Discord using the tag: ddfigueiras.
 
-Looking forward to connecting with you! 😊
+😊
