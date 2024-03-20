@@ -8,12 +8,18 @@ Requests on discord => Discord: ddfigueiras Tag: ddfigueiras
 I'm a passionate Computer Science student at the university, specializing in software engineering and development. I'm deeply interested in exploring cutting-edge technologies and solving complex problems through innovative solutions.
 
 # About Me
+
 🎓 Studying Computer Science at the university.
+
 💼 Actively seeking opportunities in software development.
+
 🌟 Owner/Creator of a CS2 community where I develop various plugins in CS# (Counter Strike Sharp), a derivative of C# for CS2. 
-Steam Group (https://steamcommunity.com/groups/AvalancheCS2)
-Website[https://steamcommunity.com/groups/AvalancheCS2] (https://www.avalanchecm.pt/home/)
-Discord Server[https://discord.gg/f2KvyQVhHj] (https://discord.gg/f2KvyQVhHj)
+
+Steam Group | https://steamcommunity.com/groups/AvalancheCS2
+
+Website | https://www.avalanchecm.pt/home/
+
+Discord Server | https://discord.gg/f2KvyQVhHj
 
 # Interests
 I'm fascinated by a wide range of topics in computer science, including:
