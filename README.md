@@ -27,6 +27,6 @@ Game Development
 I'm always eager to collaborate on interesting projects and learn from others. Feel free to reach out to me through Discord (info on the end).
 
 # Contact Me
-Feel free to reach out to me via email at ☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰ or connect with me on Discord using the tag: ddfigueiras.
+Feel free to reach out to me via email at diogo.figueiras.silva@gmail.com or connect with me on Discord using the tag: ddfigueiras.
 
 😊
