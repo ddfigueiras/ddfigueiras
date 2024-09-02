@@ -9,11 +9,11 @@ I'm a passionate Computer Science student at the university, specializing in sof
 
 🌟 Owner/Creator of a CS2 community where I develop various plugins in CS# (Counter Strike Sharp), a derivative of C# for CS2. 
 
-Steam Group | https://steamcommunity.com/groups/AvalancheCS2
+Steam Group | https://steamcommunity.com/groups/AvalancheCS2 && https://steamcommunity.com/groups/sweetricers
 
-Website | https://www.avalanchecm.pt/home/
+[Website | skins.sweetricers.pt/home/](https://skins.sweetricers.pt/home/)
 
-Discord Server | https://discord.gg/f2KvyQVhHj
+Discord Server | https://discord.gg/UTrkx7G4jw
 
 # Interests
 I'm fascinated by a wide range of topics in computer science, including:
