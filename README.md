@@ -9,7 +9,7 @@ I'm a passionate Computer Science student at the university, specializing in sof
 
 🌟 Owner/Creator of a CS2 community where I develop various plugins in CS# (Counter Strike Sharp), a derivative of C# for CS2. 
 
-Steam Group | https://steamcommunity.com/groups/AvalancheCS2 && https://steamcommunity.com/groups/sweetricers
+Steam Group |  https://steamcommunity.com/groups/sweetricers && https://steamcommunity.com/groups/AvalancheCS2
 
 [Website | skins.sweetricers.pt/home/](https://skins.sweetricers.pt/home/)
 
