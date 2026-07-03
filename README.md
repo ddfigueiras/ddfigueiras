@@ -11,7 +11,7 @@ I'm a passionate Computer Science student at the university, specializing in sof
 
 Steam Group |  https://steamcommunity.com/groups/sweetricers && https://steamcommunity.com/groups/AvalancheCS2
 
-[Website | skins.sweetricers.pt/home/](https://skins.sweetricers.pt/home/)
+[Website | sweetricers.pt](https://sweetricers.pt)
 
 Discord Server | https://discord.gg/UTrkx7G4jw
 
