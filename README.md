@@ -1,9 +1,9 @@
 # Hi there! 👋
-I'm a passionate Computer Science student at the university, specializing in software engineering and development. I'm deeply interested in exploring cutting-edge technologies and solving complex problems through innovative solutions.
+I'm a passionate Computer Science enthusiast and studied at the university, specializing in software engineering and development. I'm deeply interested in exploring cutting-edge technologies and solving complex problems through innovative solutions.
 
 # About Me
 
-🎓 Studying Computer Science at the university.
+🎓 Studied Computer Science at the university.
 
 💼 Actively seeking opportunities in software development.
 
