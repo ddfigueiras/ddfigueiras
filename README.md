@@ -1,4 +1,6 @@
 # Hi there! 👋
+🇵🇹 Também em português no [meu site](https://ddfigueiras.pt/pt).
+
 I'm a passionate Computer Science enthusiast and studied at the university, specializing in software engineering and development. I'm deeply interested in exploring cutting-edge technologies and solving complex problems through innovative solutions.
 
 # About Me
