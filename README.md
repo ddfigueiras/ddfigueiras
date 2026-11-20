@@ -7,7 +7,7 @@ I'm a passionate Computer Science enthusiast and studied at the university, spec
 
 💼 Actively seeking opportunities in software development.
 
-🌐 My work, the projects in progress and every way to reach me are on [my website](http://46.225.188.227:5555/en).
+🌐 My work, the projects in progress and every way to reach me are on [my website](https://ddfigueiras.pt/en).
 
 🌟 Owner/Creator of a CS2 community where I develop various plugins in CS# (Counter Strike Sharp), a derivative of C# for CS2. The community lives in these places.
 
@@ -44,6 +44,6 @@ I'm always eager to collaborate on interesting projects and learn from others. F
 # Contact Me
 Feel free to reach out to me or add me on Discord using the tag: ddfigueiras.
 
-You can also write to me through the [contact page](http://46.225.188.227:5555/en/contact) on my website.
+You can also write to me through the [contact page](https://ddfigueiras.pt/en/contact) on my website.
 
 😊
