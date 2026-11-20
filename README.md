@@ -7,13 +7,13 @@ I'm a passionate Computer Science enthusiast and studied at the university, spec
 
 💼 Actively seeking opportunities in software development.
 
-🌟 Owner/Creator of a CS2 community where I develop various plugins in CS# (Counter Strike Sharp), a derivative of C# for CS2. 
+🌐 My work, the projects in progress and every way to reach me are on [my website](http://46.225.188.227:5555/en).
 
-Steam Group |  https://steamcommunity.com/groups/sweetricers && https://steamcommunity.com/groups/AvalancheCS2
+🌟 Owner/Creator of a CS2 community where I develop various plugins in CS# (Counter Strike Sharp), a derivative of C# for CS2. The community lives in these places.
 
-[Website developed by me | sweetricers.pt](https://sweetricers.pt)
-
-Discord Server | https://discord.gg/UTrkx7G4jw
+- [sweetricers.pt](https://sweetricers.pt), the community website, which I also built
+- Steam groups [SweetRicers](https://steamcommunity.com/groups/sweetricers) and [Avalanche CS2](https://steamcommunity.com/groups/AvalancheCS2)
+- [Discord server](https://discord.gg/UTrkx7G4jw)
 
 # What I'm Working On
 
@@ -43,5 +43,7 @@ I'm always eager to collaborate on interesting projects and learn from others. F
 
 # Contact Me
 Feel free to reach out to me or add me on Discord using the tag: ddfigueiras.
+
+You can also write to me through the [contact page](http://46.225.188.227:5555/en/contact) on my website.
 
 😊
