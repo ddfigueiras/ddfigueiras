@@ -28,10 +28,7 @@ I build websites and the platforms behind them for businesses, from the first sk
 
 **In development**
 
-- Atesta. Fuel prices for every station in mainland Portugal, ranked by what each driver actually pays, on a website and a Telegram bot.
-- DDerviceJ. Software for restaurant kitchens, with recipe cards, dish costing and food safety records, built to keep working offline.
 - RankUP. A Minecraft server with its progression and economy written from scratch in Java.
-- CentralDevelop. My own workbench for running several projects and development sessions side by side.
 
 # Interests
 I'm fascinated by a wide range of topics in computer science, including:
